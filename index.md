@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Website!
 
-You can use the [editor on GitHub](https://github.com/gaurav80484/Jr.Gaurav/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there, my name is Gaurav Sharma, I'm new GitHub and this is my first git website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+
+I'm a beginner coder and I'm Coding Enthusiast. My hobby is reading books & my favourite subject computer & mathematics!
 
 ### Markdown
 
