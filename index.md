@@ -12,7 +12,7 @@ I have earned some certificates at freeCodeCamp and other competitons!
 
 [My freeCodeCamp Cerification](https://www.freecodecamp.org/certification/itsgaurav2468/responsive-web-design)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[My Front End Libraries Certification](https://www.freecodecamp.org/certification/itsgaurav2468/front-end-libraries)
 
 ### Jekyll Themes
 
