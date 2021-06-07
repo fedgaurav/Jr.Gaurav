@@ -10,7 +10,7 @@ I'm a beginner coder and I'm Coding Enthusiast. My hobby is reading books & my f
 
 I have earned some certificates at freeCodeCamp and other competitons!
 
-![My freeCodeCamp Cerification](https://www.freecodecamp.org/certification/itsgaurav2468/responsive-web-design)
+[My freeCodeCamp Cerification](https://www.freecodecamp.org/certification/itsgaurav2468/responsive-web-design)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
