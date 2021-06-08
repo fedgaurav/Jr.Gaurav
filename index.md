@@ -26,3 +26,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Plese Click On This Link To Fill Fut Our Feedback Form!
+
+Cick on the link [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeMAtOxjYFjWXLhHLafL7uoCwOcxKnc5a692IqC2jWkHZ-ARQ/viewform?usp=sf_link)
