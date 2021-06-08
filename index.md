@@ -1,7 +1,7 @@
 ## Welcome to My Website!
 
-Hello there, my name is Gaurav Sharma, I'm new GitHub and this is my first git website! 
-And this is a simple website as you all know so day by day I'm improving myself.
+Hello there, my name is Gaurav Sharma, I'm new at GitHub and this is my first git website! 
+
 As soon as possible I will start uploading my VSCode Projects on git ;-)
 
 Thank you :-)
@@ -24,11 +24,11 @@ I have earned some certificates at freeCodeCamp and other competitons!
 
 [My Front End Libraries](https://www.freecodecamp.org/certification/itsgaurav2468/front-end-libraries)
 
-### I have learnt some courses during lockdown are as follows!
+### I have learnt some courses during lockdown as follows!
 
 ![All Courses](https://user-images.githubusercontent.com/85432077/121158227-d1160500-c867-11eb-950c-1eb650e6bd89.png)
 
-### Plese Click On This Link To Fill Fut Our Feedback Form!
+### Plese Click On This Link To Fill Out Feedback Form!
 
 Click on the link [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeMAtOxjYFjWXLhHLafL7uoCwOcxKnc5a692IqC2jWkHZ-ARQ/viewform?usp=sf_link)
 
