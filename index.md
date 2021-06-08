@@ -1,6 +1,10 @@
 ## Welcome to My Website!
 
-Hello there, my name is Gaurav Sharma, I'm new GitHub and this is my first git website!
+Hello there, my name is Gaurav Sharma, I'm new GitHub and this is my first git website! 
+And this is a simple website as you all know so day by day I'm improving myself.
+As soon as possible I will start uploading my VSCode Projects on git ;-)
+
+Thank you :-)
 
 ## About Me
 
