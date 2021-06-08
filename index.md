@@ -16,7 +16,7 @@ I have earned some certificates at freeCodeCamp and other competitons!
 
 [IISF GWR CERTIFICATE](https://user-images.githubusercontent.com/85432077/121040452-89439f00-c7cf-11eb-8a17-97537ec96efd.png)
 
-[65](https://user-images.githubusercontent.com/85432077/121150794-74afe700-c861-11eb-904e-2d40d33550c3.png)
+[VVM Vibha Certificate](https://user-images.githubusercontent.com/85432077/121150794-74afe700-c861-11eb-904e-2d40d33550c3.png)
 
 [My Front End Libraries](https://www.freecodecamp.org/certification/itsgaurav2468/front-end-libraries)
 
