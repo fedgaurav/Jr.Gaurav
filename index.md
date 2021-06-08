@@ -26,7 +26,13 @@ I have earned some certificates at freeCodeCamp and other competitons!
 
 ### I have learnt some courses during lockdown are as follows!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gaurav80484/Jr.Gaurav/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Anaconda](https://user-images.githubusercontent.com/85432077/121156470-57c9e280-c866-11eb-883f-bc5c43cafc45.png)
+![Bootstrap](https://user-images.githubusercontent.com/85432077/121156488-5c8e9680-c866-11eb-9474-cc93289633eb.jpg)
+![CSS](https://user-images.githubusercontent.com/85432077/121156502-5f898700-c866-11eb-85e3-9eceab23352a.jpeg)
+![JS](https://user-images.githubusercontent.com/85432077/121156520-62847780-c866-11eb-8717-1a6b9a246c68.png)
+![Python](https://user-images.githubusercontent.com/85432077/121156539-66b09500-c866-11eb-92d4-9c517a57935b.jpg)
+![Node.js](https://user-images.githubusercontent.com/85432077/121156552-6912ef00-c866-11eb-91d9-06535065a9fe.png)
+
 
 ### Plese Click On This Link To Fill Fut Our Feedback Form!
 
