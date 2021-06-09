@@ -38,6 +38,8 @@ I have earned some certificates at freeCodeCamp and other competitons!
 
 [My Codepen.io](https://codepen.io/its_me_gaurav)
 
+[My GitHub](https://github.com/gaurav80484)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
